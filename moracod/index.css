@@ -1,0 +1,122 @@
+body{
+    background-color: white
+}
+.navbar-home{
+    width: auto;
+    height: 80px;
+    background-color: #fdb2cb;
+    border: 5px solid rgb(247, 163, 191);
+    border-radius: 2px;
+    display: flex;
+}
+.identitas{
+    width: auto;
+    height:30px;
+    padding-block: 2px;
+    margin-left: 40px;
+    margin-top: -93px;
+}
+.logo{
+    margin-top: -7px;
+}
+.nama{
+    margin-left: -6px;
+}
+.list{
+    width: 500px;
+    display: flex;
+    list-style: none;
+    padding-block: 20px;
+    margin-left: 50%;
+    font-size: 20px;
+    justify-content: end;
+}
+.menu{
+    width: 300px;
+    height: 30px;
+    list-style: none;
+    display: flex;
+    padding-left: 100px;
+    color: #fce5ed;
+    text-align: center;
+    justify-content: end;
+    font-size: 29px;
+    margin-top: -3px;
+    margin-right: -55px;
+}
+.menu :hover{
+    color: #ec779e;
+}
+.img-parent{
+    width: auto;
+    height: 790px;
+    display: flex;
+    justify-content: center;
+    border: 40px solid#ffa4c2;
+}
+.img-home{
+    width: auto;
+    height: 800px;
+}
+.img-home2{
+    width: auto;
+    height: 530px;
+}
+.product{
+    width: auto;
+    height: 900px;
+    background-color: #ec779e;
+}
+.navbar-product{
+    width: auto;
+    height: 55px;
+    background-color: #fdb4cc;
+    color: #fce5ed;
+    justify-content: center;
+    border: 3px solid rgb(247, 163, 191);
+    font-size: 30px;
+    padding-block: 2px; 
+}
+.header-bracelet{
+    width: auto;
+    height: 40px;
+    background-color: #fcf29b;
+    color: rgb(236, 144, 160);
+    border: 3px solid #eee593;
+    font-size: 27px;
+    justify-content: center;
+    padding-bottom: 40px;
+}
+.wrap-bracelet{
+    width: auto;
+    height: 600px;
+    background-color: #f0b8cd;
+}
+.img-bracelet{
+    width: auto;
+    height: 580px;
+    background-color: #f0b8cd;
+    display: flex;
+    justify-content: center;
+    padding-top: 18px;
+}
+.imgproduct{
+    width: auto;
+    height: 100%;
+    border-radius: 6px;
+    border: 9px solid#fcf29b;
+}
+.link{
+    margin-top: -100px;
+    text-align: center;
+}
+.button{
+    width: 80%;
+    height: 50%;
+    background-color: #f8f4ca;
+    color: rgb(236, 144, 160);
+    border: 3px solid #dad6a9;
+    border-radius: 6px;
+    margin-left: 38%;
+    margin-bottom: 15px;
+}
